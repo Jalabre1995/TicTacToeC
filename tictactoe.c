@@ -46,7 +46,7 @@ int main()
         } //Check if that positon has already been used//
         if (pos[index - 1] == 'X' || pos[index - 1] == 'O')
         {
-            printf("Postiionis occupied\n");
+            printf("Postiion is occupied\n");
             continue;
         }
         pos[index - 1] = sign;
