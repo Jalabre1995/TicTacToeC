@@ -5,6 +5,8 @@ Simple fun tic tac toe program that utilizes C programming. Check the video belo
 
 
 
-https://user-images.githubusercontent.com/57151108/127720858-d44ac36d-9e4f-46a8-b688-56a8951c820c.mp4
+https://user-images.githubusercontent.com/57151108/127721094-37e06aa2-2622-4730-832b-785aaf0fde65.mp4
+
+
 
 
